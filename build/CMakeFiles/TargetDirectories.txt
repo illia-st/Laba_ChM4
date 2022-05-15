@@ -1,0 +1,9 @@
+D:/programming/c++/CMake_projects/Laba_ChM4/build/CMakeFiles/Experimental.dir
+D:/programming/c++/CMake_projects/Laba_ChM4/build/CMakeFiles/Nightly.dir
+D:/programming/c++/CMake_projects/Laba_ChM4/build/CMakeFiles/Continuous.dir
+D:/programming/c++/CMake_projects/Laba_ChM4/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/programming/c++/CMake_projects/Laba_ChM4/build/CMakeFiles/Laba_ChM4.dir
+D:/programming/c++/CMake_projects/Laba_ChM4/build/CMakeFiles/PACKAGE.dir
+D:/programming/c++/CMake_projects/Laba_ChM4/build/CMakeFiles/RUN_TESTS.dir
+D:/programming/c++/CMake_projects/Laba_ChM4/build/CMakeFiles/ALL_BUILD.dir
+D:/programming/c++/CMake_projects/Laba_ChM4/build/CMakeFiles/ZERO_CHECK.dir

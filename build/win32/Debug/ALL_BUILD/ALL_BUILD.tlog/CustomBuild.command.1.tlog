@@ -1,0 +1,10 @@
+^D:\PROGRAMMING\C++\CMAKE_PROJECTS\LABA_CHM4\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/programming/c++/CMake_projects/Laba_ChM4 -BD:/programming/c++/CMake_projects/Laba_ChM4/build --check-stamp-file D:/programming/c++/CMake_projects/Laba_ChM4/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
